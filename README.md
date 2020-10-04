@@ -1,68 +1,71 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# where-is-waldo
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+[Odin] Image tagging app using the visual puzzle format of "Where is Waldo?".
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+_Where's Waldo?_ is a series of book that popularized the intricated super detailed illustration style. This application shows one of these images and allows users to interact with it in order to seek and find some recognizible characters, as well as compete with other people's score.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+The illustration is authored by the amazing artist [Laurie Greasly](https://twitter.com/lauriegreasley).
 
-### `npm test`
+> See it live on [amielfilarca.github.io/where-is-waldo](https://amielfilarca.github.io/where-is-waldo/)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Screenshots
 
-### `npm run build`
+#### Start
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![start](https://user-images.githubusercontent.com/46077668/95008169-f8b62d00-0649-11eb-82d6-94a3ff72f730.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+#### Preview
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![preview](https://user-images.githubusercontent.com/46077668/95008177-1c797300-064a-11eb-8ff5-755f6f967c68.png)
 
-### `npm run eject`
+#### Game
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![game](https://user-images.githubusercontent.com/46077668/95008180-200cfa00-064a-11eb-8ee3-7bce5d7daeef.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### High Scores
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![game](https://user-images.githubusercontent.com/46077668/95008186-24d1ae00-064a-11eb-964e-a5b8f732749b.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Objectives & Outcomes
 
-## Learn More
+- Interact with a NoSQL flexible database.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Design an interesting application with smooth transitions and animations.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Understand and integrate a Backend-as-a-Service (BaaS) provider in Firebase into the app.
 
-### Code Splitting
+- Familiarize with Firebase's services, in particular Cloud Firestore.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+- Further improve React proficiency in functional components using Hooks.
 
-### Analyzing the Bundle Size
+## Development
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+### Javascript Framework
 
-### Making a Progressive Web App
+- [React](https://github.com/facebook/create-react-app)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+### Libraries, extensions and tools
 
-### Advanced Configuration
+- [Firebase's Firestore](https://firebase.google.com/docs/firestore) - Scalable, flexible NoSQL database for web, mobile and server development.
+- [ESLint](https://eslint.org/) - A linter tool to standardize code
+- [Prettier](https://prettier.io/) - Code formatter
+- [Github Pages](https://pages.github.com/) - Hosting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## More information
 
-### Deployment
+- Made as a solution for the Image Tagging Project in [The Odin Project](https://www.theodinproject.com/courses/javascript/lessons/where-s-waldo-a-photo-tagging-app-javascript)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+- [ESLint and Prettier configuration on VSCode, by Manorisms](https://www.youtube.com/watch?v=bfyI9yl3qfE)
 
-### `npm run build` fails to minify
+- [GH-Pages Deployment](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- You can buy the art as a poster from [Hcgart](https://hcgart.com/products/the-raid-3-scourge-of-the-machines-screen-print-by-laurie-greasley).
+
+## Future works
+
+As on any project, there are always more things that I would like to implement that didn't make it to the final version you see live. This section lists a few of them for future me to pickup and add them.
+
+- Add images
