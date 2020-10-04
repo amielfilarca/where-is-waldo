@@ -47,6 +47,10 @@ The illustration is authored by the amazing artist [Laurie Greasly](https://twit
 
 - [React](https://github.com/facebook/create-react-app)
 
+### UI Framework
+
+- [Material-UI](https://material-ui.com/)
+
 ### Libraries, extensions and tools
 
 - [Firebase's Firestore](https://firebase.google.com/docs/firestore) - Scalable, flexible NoSQL database for web, mobile and server development.
