@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/where-is-waldo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/where-is-waldo/static/js/main.497fd873.chunk.js",
+    "main.js.map": "/where-is-waldo/static/js/main.497fd873.chunk.js.map",
+    "runtime-main.js": "/where-is-waldo/static/js/runtime-main.b53af3b1.js",
+    "runtime-main.js.map": "/where-is-waldo/static/js/runtime-main.b53af3b1.js.map",
+    "static/js/2.747844d5.chunk.js": "/where-is-waldo/static/js/2.747844d5.chunk.js",
+    "static/js/2.747844d5.chunk.js.map": "/where-is-waldo/static/js/2.747844d5.chunk.js.map",
+    "index.html": "/where-is-waldo/index.html",
+    "precache-manifest.421592b3b1185e99a1d062c4ffd8957b.js": "/where-is-waldo/precache-manifest.421592b3b1185e99a1d062c4ffd8957b.js",
+    "service-worker.js": "/where-is-waldo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/where-is-waldo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.747844d5.chunk.js.LICENSE.txt": "/where-is-waldo/static/js/2.747844d5.chunk.js.LICENSE.txt",
+    "static/media/Alpha_5.png": "/where-is-waldo/static/media/Alpha_5.d89b8588.png",
+    "static/media/Astro.png": "/where-is-waldo/static/media/Astro.e42031cc.png",
+    "static/media/Baby_Yoda.jpg": "/where-is-waldo/static/media/Baby_Yoda.0802dc4c.jpg",
+    "static/media/Bill_and_Ted.jpg": "/where-is-waldo/static/media/Bill_and_Ted.5fe5e4b6.jpg",
+    "static/media/Owl.jpg": "/where-is-waldo/static/media/Owl.0fe877b2.jpg",
+    "static/media/raidthree.png": "/where-is-waldo/static/media/raidthree.c260966d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b53af3b1.js",
+    "static/js/2.747844d5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.497fd873.chunk.js"
+  ]
+}
