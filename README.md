@@ -33,7 +33,7 @@ The illustration is authored by the amazing artist [Laurie Greasly](https://twit
 
 - Interact with a NoSQL flexible database.
 
-- Design an interesting application with smooth transitions and animations.
+- Design an application with a clean user interface.
 
 - Understand and integrate a Backend-as-a-Service (BaaS) provider in Firebase into the app.
 
