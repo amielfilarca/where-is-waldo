@@ -3,7 +3,7 @@
 
 ## Description
 
-[Odin] Image tagging app using the visual puzzle format of "Where is Waldo?".
+Image tagging app using the visual puzzle format of "Where is Waldo?".
 
 _Where's Waldo?_ is a series of book that popularized the intricated super detailed illustration style. This application shows one of these images and allows users to interact with it in order to seek and find some recognizible characters, as well as compete with other people's score.
 
